@@ -1,0 +1,14 @@
+{
+  "name": "google-play-scraper",
+  "version": "1.0.0",
+  "description": "google play scraper apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ilham",
+  "license": "MIT",
+  "dependencies": {
+    "google-play-scraper": "^7.1.0"
+  }
+}
